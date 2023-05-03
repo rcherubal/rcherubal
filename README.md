@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @rcherubal
-- 👀 I’m interested in software development and game design
+- 👀 I’m a full stack developer
 - 🌱 I’m currently learning Unity
